@@ -1,0 +1,21 @@
+{
+	"name": "pwa_test",
+	"short_name": "pwa_test",
+	"icons": [
+		{
+			"src": "StatsPerform_Logo_Identifier_01.svg",
+			"type": "image/svg+xml",
+			"sizes": "123x150"
+		},
+		{
+			"src": "statsperform.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/pwa_test",
+	"display": "standalone",
+	"theme_color": "#0c0a09",
+	"background_color ": "#0c0a09",
+	"orientation": "landscape-primary"
+}

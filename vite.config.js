@@ -1,6 +1,11 @@
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 
+const config = {
+	open: true
+};
+
 export default defineConfig({
-	plugins: [sveltekit()]
+	plugins: [sveltekit()],
+	preview: config
 });

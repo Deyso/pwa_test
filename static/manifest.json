@@ -3,12 +3,12 @@
 	"short_name": "pwa_test",
 	"icons": [
 		{
-			"src": "/pwa_test/icons/StatsPerform_Logo_Identifier_01.svg",
+			"src": "StatsPerform_Logo_Identifier_01.svg",
 			"type": "image/svg+xml",
 			"sizes": "123x150"
 		},
 		{
-			"src": "/pwa_test/icons/statsperform.png",
+			"src": "statsperform.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}
